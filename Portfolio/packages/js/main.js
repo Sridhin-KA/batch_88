@@ -2,7 +2,7 @@
 const navMenu = document.getElementById("nav-menu"),
   navToggle = document.getElementById("nav-toggle"),
   navClose = document.getElementById("nav-close");
-
+let x = 20
 /*===== MENU SHOW =====*/
 /* Validate if constant exists */
 if (navToggle) {
